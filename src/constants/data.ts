@@ -247,7 +247,7 @@ export const workExperiences = [
     company: "transformation digitale  - Heuristik Partners",
     position: "stage",
     duration: "2025 april - may",
-    icon: "varlab_logo.png",
+    icon: "heur.png",
     technologies: [
       "laravel", "javascript" , "php" , "blade"
     ],
