@@ -45,12 +45,13 @@ const Contact = () => {
         SERVICE_ID,
         TEMPLATE_ID,
         {
-          from_name: form.name,
-          to_name: TO_NAME,
-          from_email: form.email,
-          to_email: TO_EMAIL,
-          message: form.message,
-        },
+  from_name: form.name,
+  to_name: TO_NAME,
+  from_email: form.email,
+  to_email: TO_EMAIL,
+  message: form.message,
+}
+,
         PUBLIC_KEY
       )
       .then(

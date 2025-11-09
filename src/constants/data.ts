@@ -136,10 +136,9 @@ export const myProjects = [
   {
     title: "vente de composents des pc - e-commerce site web",
     desc: "mon projet de synthese pour obtenir mon diplome technicien spécialisé",
-    subdesc:
-      "",
+    subdesc:"",
     href: "https://a-coderr.github.io/karate-galaxy/",
-    source: "https://github.com/A-coderr/Karate_HTML_CSS",
+    
     logo: "projects/pc.png",
     logoStyle: {
       backgroundColor: "#A0F0BC",
@@ -255,7 +254,7 @@ export const workExperiences = [
       {
         name: "site web immobilier",
         description: "le vendre et louer des immobilier dans le maroc",
-        link: "",
+     
       }
     ],
   },
