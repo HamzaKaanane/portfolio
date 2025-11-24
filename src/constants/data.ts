@@ -150,94 +150,42 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: "HTML",
-        path: "icons/html-5.svg",
+        name: "laravel",
+        path: "icons/laravel-2.svg",
       },
       {
         id: 2,
         name: "CSS",
         path: "icons/css-3.svg",
       },
-    ],
-  },
-  {
-    title: "SKIF Karate Canada Website",
-    desc: "A modern, responsive website built with Next.js to represent the SKIF Karate Canada.",
-    subdesc:
-      "This project showcases a blend of modern web development and traditional martial arts values.",
-    href: "https://skif-website.vercel.app/",
-    source: "https://github.com/A-coderr/skif-website",
-    logo: "projects/skif.png",
-    logoStyle: {
-      backgroundColor: "#FF4C4C",
-      background:
-        "linear-gradient(0deg, #FF4C4C50, #FF4C4C50), linear-gradient(180deg, rgba(255, 255, 255, 0.95) 0%, rgba(255, 200, 200, 0.85) 100%)",
-      border: "0.2px solid rgba(255, 76, 76, 1)",
-      boxShadow: "0px 0px 60px 0px rgba(183, 28, 28, 0.4)",
-    },
-    tags: [
       {
-        id: 1,
-        name: "React.js",
+      id: 3,
+        name: "React",
         path: "icons/react.svg",
       },
       {
-        id: 2,
-        name: "Nextjs",
-        path: "icons/nextjs.svg",
-      },
-      {
-        id: 3,
-        name: "TailwindCSS",
-        path: "icons/tailwindcss-icon.svg",
-      },
-      {
         id: 4,
-        name: "TypeScript",
-        path: "icons/typescript-icon.svg",
-      },
-      {
-        id: 5,
         name: "Java Script",
         path: "icons/javascript.svg",
       },
       {
+        id: 5,
+        name: "python",
+        path: "icons/python.svg",
+      },
+      {
         id: 6,
-        name: "HTML",
-        path: "icons/html-5.svg",
+        name: "github",
+        path: "icons/github-icon.svg",
       },
       {
         id: 7,
-        name: "CSS",
-        path: "icons/css-3.svg",
-      },
-      {
-        id: 8,
-        name: "Prettier",
-        path: "icons/prettier.svg",
-      },
-      {
-        id: 9,
-        name: "ESLint",
-        path: "icons/eslint.svg",
-      },
-      {
-        id: 10,
-        name: "Markdown",
-        path: "icons/markdown.svg",
-      },
-      {
-        id: 11,
-        name: "Vite",
-        path: "icons/vite.svg",
-      },
-      {
-        id: 12,
-        name: "Vercel",
-        path: "icons/vercel.svg",
+        name: "mysql",
+        path: "icons/mysql.svg",
       },
     ],
   },
+
 ];
 
 export const workExperiences = [
@@ -245,7 +193,7 @@ export const workExperiences = [
     id: 1,
     company: "transformation digitale  - Heuristik Partners",
     position: "stage",
-    duration: "2025 april - may",
+    duration: "2025",
     icon: "heur.png",
     technologies: [
       "laravel", "javascript" , "php" , "blade"
