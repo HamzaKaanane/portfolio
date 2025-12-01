@@ -68,8 +68,6 @@ const ProjectCard = ({ project }) => {
               whileHover={{ scale: 1.1 }}
               transition={{ duration: 0.2, ease: "easeOut" }}
             >
-              <p className="text-xs md:text-base">Demo</p>
-              <img src="arrow-up.png" alt="arrow" className="w-3 h-3" />
             </motion.a>
           </div>
         </div>
