@@ -39,3 +39,8 @@ h1, h2, h3, h4, h5, h6 {
 .animate-scroll {
   animation: scroll 2.2s cubic-bezier(.15,.41,.69,.94) infinite;
 }
+/* Shorten the vertical timeline line */
+.vertical-timeline::before {
+  height: 70% !important;   /* adjust the % */
+  top: 15% !important;      /* centers the shorter line */
+}
