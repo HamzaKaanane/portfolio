@@ -29,7 +29,7 @@ const Hero = () => {
       >
         <div className="max-w-7xl mx-auto flex flex-col c-space gap-7 items-center">
           <h2 className="md:text-5xl sm:text-4xl text-2xl font-medium text-white text-center">
-            Bonjour ,je suis{" "}
+            Hello , I am{" "}
             <LinearGradient gradient={["to left", "#ff9720 ,#fc0865"]}>
              Hamza
             </LinearGradient>
@@ -39,11 +39,12 @@ const Hero = () => {
 before:absolute before:inset-0 before:animate-typewriter before:bg-[#1a191e]
 after:absolute after:inset-0 after:w-[0.125em] after:animate-caret after:bg-white"
           >
-            Developpeur Web
+            Web Developer
           </h2>
 
           <p className="max-w-4xl text-center justify-center text-white xl:text-xl md:text-lg sm:text-sm text-md">
-            Je suis un étudiant passionné en développement full-stack, avec une expertise grandissante dans la conception d’applications web et de systèmes back-end. J’utilise des technologies telles que Laravel, Node.js, Express et MongoDB, et j’explore également des projets liés à l’intelligence artificielle, comme la création de chatbots et d’outils de recommandation. Qu’il s’agisse de concevoir des interfaces front-end réactives avec React ou de mettre en place des architectures de microservices robustes, je privilégie un code propre et maintenable, la collaboration et l’apprentissage continu afin de proposer des solutions innovantes qui améliorent l’expérience utilisateur.
+            I am a passionate full-stack development student with growing expertise in building web applications and back-end systems. I work with technologies such as Laravel, Node.js, Express, and MongoDB, and I also explore AI-related projects, including chatbot creation and recommendation tools. Whether designing responsive front-end interfaces with React or implementing robust microservices architectures, I prioritize clean and maintainable code, collaboration, and continuous learning to deliver innovative solutions that enhance the user experience.
+
           </p>
         </div>
         <motion.div

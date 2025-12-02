@@ -28,10 +28,9 @@ export const navLinks = [
 
 export const myProjects = [
   {
-    title: "IMMOPLUS - site web qui offre des services immobiliers",
-    desc: "Un site web qui presente des differents immobliers pour louer et le vente",
-    subdesc:
-      "un prototype",
+    title: "IMMOPLUS - Real Estate Services Website",
+    desc: "A website that presents various real estate properties for rent and sale.",
+    subdesc: "A prototype project.",
     href: "https://github.com/HamzaKaanane/Immoplus",
     source: "https://a-coderr.github.io/3d_obstacle_course/",
     logo: "projects/immo.png",
@@ -43,33 +42,18 @@ export const myProjects = [
       boxShadow: "0px 0px 60px 0px rgba(177, 142, 255, 0.3)",
     },
     tags: [
-      {
-        id: 1,
-        name: "laravel",
-        path: "icons/laravel-2.svg",
-      },
-      {
-        id: 2,
-        name: "CSS",
-        path: "icons/css-3.svg",
-      },
-      {
-        id: 3,
-        name: "php",
-        path: "icons/PHP-logo.svg",
-      },
-      {
-        id: 4,
-        name: "Java Script",
-        path: "icons/javascript.svg",
-      },
+      { id: 1, name: "Laravel", path: "icons/laravel-2.svg" },
+      { id: 2, name: "CSS", path: "icons/css-3.svg" },
+      { id: 3, name: "PHP", path: "icons/PHP-logo.svg" },
+      { id: 4, name: "JavaScript", path: "icons/javascript.svg" },
     ],
   },
+
   {
-    title: "Hamza Kaanane - Portfolio site web",
-    desc: "mon portfolio presente mes skills , mes experiences et mes projets",
+    title: "Hamza Kaanane - Portfolio Website",
+    desc: "My personal portfolio showcasing my skills, experiences, and projects.",
     subdesc:
-      "Construit avec des technologies web modernes, ce portfolio met en valeur des éléments 3D interactifs, des animations fluides et un design réactif pour une expérience utilisateur immersive.",
+      "Built with modern web technologies, this portfolio highlights interactive 3D elements, smooth animations, and a fully responsive design for an immersive user experience.",
     href: "https://github.com/A-coderr/portfolio-website",
     source: "https://a-coderr.github.io/portfolio-website/",
     logo: "projects/portf.png",
@@ -81,64 +65,24 @@ export const myProjects = [
       boxShadow: "0px 0px 60px 0px rgba(79, 195, 247, 0.3)",
     },
     tags: [
-      {
-        id: 1,
-        name: "React.js",
-        path: "icons/react.svg",
-      },
-      {
-        id: 2,
-        name: "TailwindCSS",
-        path: "icons/tailwindcss-icon.svg",
-      },
-      {
-        id: 3,
-        name: "TypeScript",
-        path: "icons/typescript-icon.svg",
-      },
-      {
-        id: 4,
-        name: "Java Script",
-        path: "icons/javascript.svg",
-      },
-      {
-        id: 5,
-        name: "Three.js",
-        path: "icons/threejs.svg",
-      },
-      {
-        id: 6,
-        name: "HTML",
-        path: "icons/html-5.svg",
-      },
-      {
-        id: 7,
-        name: "CSS",
-        path: "icons/css-3.svg",
-      },
-      {
-        id: 8,
-        name: "Prettier",
-        path: "icons/prettier.svg",
-      },
-      {
-        id: 9,
-        name: "ESLint",
-        path: "icons/eslint.svg",
-      },
-      {
-        id: 10,
-        name: "Vite",
-        path: "icons/vite.svg",
-      },
+      { id: 1, name: "React.js", path: "icons/react.svg" },
+      { id: 2, name: "TailwindCSS", path: "icons/tailwindcss-icon.svg" },
+      { id: 3, name: "TypeScript", path: "icons/typescript-icon.svg" },
+      { id: 4, name: "JavaScript", path: "icons/javascript.svg" },
+      { id: 5, name: "Three.js", path: "icons/threejs.svg" },
+      { id: 6, name: "HTML", path: "icons/html-5.svg" },
+      { id: 7, name: "CSS", path: "icons/css-3.svg" },
+      { id: 8, name: "Prettier", path: "icons/prettier.svg" },
+      { id: 9, name: "ESLint", path: "icons/eslint.svg" },
+      { id: 10, name: "Vite", path: "icons/vite.svg" },
     ],
   },
+
   {
-    title: "vente de composents des pc - e-commerce site web",
-    desc: "mon projet de synthese pour obtenir mon diplome technicien spécialisé",
-    subdesc:"",
+    title: "PC Components Store - E-Commerce Website",
+    desc: "My final year project to obtain my Specialized Technician diploma.",
+    subdesc: "",
     href: "https://a-coderr.github.io/karate-galaxy/",
-    
     logo: "projects/pc.png",
     logoStyle: {
       backgroundColor: "#A0F0BC",
@@ -148,66 +92,32 @@ export const myProjects = [
       boxShadow: "0px 0px 60px 0px rgba(135, 160, 234, 0.4)",
     },
     tags: [
-      {
-        id: 1,
-        name: "laravel",
-        path: "icons/laravel-2.svg",
-      },
-      {
-        id: 2,
-        name: "CSS",
-        path: "icons/css-3.svg",
-      },
-      {
-      id: 3,
-        name: "React",
-        path: "icons/react.svg",
-      },
-      {
-        id: 4,
-        name: "Java Script",
-        path: "icons/javascript.svg",
-      },
-      {
-        id: 5,
-        name: "python",
-        path: "icons/python.svg",
-      },
-      {
-        id: 6,
-        name: "github",
-        path: "icons/github-icon.svg",
-      },
-      {
-        id: 7,
-        name: "mysql",
-        path: "icons/mysql.svg",
-      },
+      { id: 1, name: "Laravel", path: "icons/laravel-2.svg" },
+      { id: 2, name: "CSS", path: "icons/css-3.svg" },
+      { id: 3, name: "React", path: "icons/react.svg" },
+      { id: 4, name: "JavaScript", path: "icons/javascript.svg" },
+      { id: 5, name: "Python", path: "icons/python.svg" },
+      { id: 6, name: "GitHub", path: "icons/github-icon.svg" },
+      { id: 7, name: "MySQL", path: "icons/mysql.svg" },
     ],
   },
-
 ];
 
 export const workExperiences = [
   {
     id: 1,
-    company: "transformation digitale  - Heuristik Partners",
-    position: "stage",
+    company: "Digital Transformation - Heuristik Partners",
+    position: "Internship",
     duration: "2025",
     icon: "heur.png",
-    technologies: [
-      "laravel", "javascript" , "php" , "blade"
-    ],
+    technologies: ["Laravel", "JavaScript", "PHP", "Blade"],
     projects: [
       {
-        name: "site web immobilier",
-        description: "le vendre et louer des immobilier dans le maroc",
-     
-      }
+        name: "Real Estate Website",
+        description: "A platform for renting and selling properties in Morocco.",
+      },
     ],
   },
-
-
 ];
 
 export const socialLinks = [
